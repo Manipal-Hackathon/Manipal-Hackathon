@@ -1,1 +1,1 @@
-# Manipal-Hackathon.github.io
+# Manipal-Hackathon
