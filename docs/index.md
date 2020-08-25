@@ -2,5 +2,4 @@
 
 Guides : 
 
-![](https://github.com/Manipal-Hackathon/Manipal-Hackathon.github.io/blob/master/img/Annotation%202020-08-14%20183042.jpg)
-
+FAQs and Rules regarding Round 2 submission
